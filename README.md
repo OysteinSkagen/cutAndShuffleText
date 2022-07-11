@@ -5,4 +5,4 @@ in chunks random number of words
 Your favorite poem will never look the same!
 
 cool to see this with a GUI where you could drop initial text and shuffle
-it with the press of a buttom, seeing the result text in the same window. 
+it with the press of a button, seeing the result text in the same window. 
